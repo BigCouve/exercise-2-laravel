@@ -1,0 +1,1 @@
+<h2 class="text-center my-5">No results found on this page! Please reload it or add a new register</h2>
